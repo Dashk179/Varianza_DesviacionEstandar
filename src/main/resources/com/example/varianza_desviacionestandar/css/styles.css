@@ -1,0 +1,10 @@
+.button{
+-fx-background-color:blue;
+-fx-image: url('tecnm.png');
+}
+.root{
+ -fx-mid-text-color: white;
+  -fx-dark-text-color: navy ;
+
+   -fx-light-text-color: skyblue ;
+}
